@@ -1,0 +1,7 @@
+{"event_id": "t1", "event_type": "trade", "symbol": "BTCUSDT", "timestamp_ms": 1000, "price": "65000.5", "size": "0.10", "side": "buy"}
+{"event_id": "q1", "event_type": "quote", "symbol": "BTCUSDT", "timestamp_ms": 1200, "bids": [["65000.0", "0.5"]], "asks": [["65001.0", "0.4"]]}
+{"event_id": "t2", "event_type": "trade", "symbol": "BTCUSDT", "timestamp_ms": 1800, "price": "64990.0", "size": "0.30", "side": "sell"}
+{"event_id": "q2", "event_type": "quote", "symbol": "ETHUSDT", "timestamp_ms": 2300, "bids": [["3400.0", "2.0"]], "asks": [["3401.5", "1.5"]]}
+{"event_id": "t3", "event_type": "trade", "symbol": "BTCUSDT", "timestamp_ms": 5100, "price": "65100.0", "size": "0.05", "side": "buy"}
+{"event_id": "q3", "event_type": "quote", "symbol": "BTCUSDT", "timestamp_ms": 5600, "bids": [["65099.0", "0.8"]], "asks": [["65101.0", "0.6"]]}
+{"event_id": "t4", "event_type": "trade", "symbol": "ETHUSDT", "timestamp_ms": 5900, "price": "3410.0", "size": "1.0", "side": "buy"}
