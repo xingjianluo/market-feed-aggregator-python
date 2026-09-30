@@ -1,0 +1,11 @@
+[
+  {"event_id": "BTC-0001", "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 1000, "price": 100.5, "size": 1.5},
+  {"event_id": "BTC-0002", "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 1200, "price": 101.0, "size": 0.5},
+  {"event_id": "BTC-0002", "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 1200, "price": 101.0, "size": 0.5},
+  {"event_id": "BTC-0003", "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 900,  "price": 99.0,  "size": 2.0},
+  {"event_id": "BTC-0004", "symbol": "BTCUSD", "type": "quote", "timestamp_ms": 1100,
+   "bid_price": 100.4, "bid_size": 3.0, "ask_price": 100.7, "ask_size": 2.0},
+  {"event_id": "BTC-0005", "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 3100, "price": 103.0, "size": 1.0},
+  {"event_id": "BAD-01",   "symbol": "BTCUSD", "type": "trade", "timestamp_ms": 1300, "price": -1, "size": 1},
+  "not-an-object"
+]
